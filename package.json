@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/react": "^18.3.1"
+  },
+  "name": "reactlib-test",
+  "version": "0.0.1",
+  "description": "여러가지 리액트 기능을 바닐라 tsx로 구현해보는 리포지토리입니다. 🙌",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/react": "^18.3.1"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "resforx",
+  "license": "MIT"
+}
