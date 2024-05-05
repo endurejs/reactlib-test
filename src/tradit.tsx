@@ -1,4 +1,4 @@
-import react from "react";
+import react, { useEffect } from "react";
 
 export function Mapped<T extends react.ReactNode>({ arr }: { arr: Array<T> }) {
     return (
@@ -29,3 +29,4 @@ export function UseComposed<T extends react.ReactNode>({ st, sst, btnMsg, btnv }
         </div>
     );
 }
+
